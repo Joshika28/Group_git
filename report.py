@@ -1,2 +1,0 @@
-def calc():
-    print("priya")
